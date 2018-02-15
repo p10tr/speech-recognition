@@ -3,13 +3,13 @@ Speech recognition related articles
 
 ## The acoustic & language modeling
  * [Sequence Modeling with CTC](https://distill.pub/2017/ctc/)
- * Facebook wav2letter 
-  * [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](https://arxiv.org/abs/1609.03193) 
-  * [Letter-Based Speech Recognition with Gated ConvNets](https://arxiv.org/abs/1712.09444)
-  * [wav2letter github repo](https://github.com/facebookresearch/wav2letter) 
- * Google Listen-Attend-n-Spell
-  * [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211)
-  * [State-of-the-art Speech Recognition With Sequence-to-Sequence Models](https://arxiv.org/abs/1712.01769)
+ * **Facebook wav2letter** 
+   * [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System](https://arxiv.org/abs/1609.03193) 
+   * [Letter-Based Speech Recognition with Gated ConvNets](https://arxiv.org/abs/1712.09444)
+   * [wav2letter github repo](https://github.com/facebookresearch/wav2letter) 
+ * **Google Listen-Attend-n-Spell**
+   * [Listen, Attend and Spell](https://arxiv.org/abs/1508.01211)
+   * [State-of-the-art Speech Recognition With Sequence-to-Sequence Models](https://arxiv.org/abs/1712.01769)
  * [A time delay neural network architecture for efficient modeling of long temporal contexts](http://www.danielpovey.com/files/2015_interspeech_multisplice.pdf)
  * [Recent Progresses in Deep Learning Based Acoustic Models](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974889)
  * [Dense Prediction on Sequences with Time-Dilated Convolutions for Speech Recognition](https://arxiv.org/pdf/1611.09288.pdf)
