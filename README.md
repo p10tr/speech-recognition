@@ -14,6 +14,8 @@ Speech recognition related articles
  * [Recent Progresses in Deep Learning Based Acoustic Models](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974889)
  * [Dense Prediction on Sequences with Time-Dilated Convolutions for Speech Recognition](https://arxiv.org/pdf/1611.09288.pdf)
  * [Residual Convolutional CTC Networks for Automatic Speech Recognition](https://arxiv.org/pdf/1702.07793.pdf) 
+ * [Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling](https://arxiv.org/abs/1703.00096)
+ * [Exploring Neural Transducers for End-to-End Speech Recognition](https://arxiv.org/abs/1707.07413)
  
 ## Key word spotting
  * [Hello Edge: Keyword Spotting on Microcontrollers](https://arxiv.org/pdf/1711.07128.pdf)
@@ -38,4 +40,6 @@ Speech recognition related articles
 
 ## Corporas
  * [Open Speech and Language Resources](http://www.openslr.org/index.html)
+
+## Uncategorized but useful links
  
